@@ -22,6 +22,7 @@
               <input type="submit" value="Upload" class="submit" />
               </div>
             </form>
+          </div>
         </div>
       </div>
       <div class="row justify-content-md-center">
