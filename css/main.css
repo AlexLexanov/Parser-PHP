@@ -1,0 +1,48 @@
+.card {
+  width: 692px;
+  height: 692px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  margin: auto;
+  padding: 40px;
+}
+.custom-file {
+  margin-bottom: 40px;
+}
+.col-md-12 {
+  padding: 40px;
+}
+h6 {
+  font-size: 14px
+}
+.card-table {
+  margin-top: 30px;
+}
+tabel {
+  color: #707070;
+}
+.table-body {
+  border-top: 1px solid #707070;
+  border-bottom: 1px solid #707070;
+}
+.detailed {
+  margin-top: 30px;
+}
+p {
+  font-size: 14px;
+  margin-bottom: 15px;
+}
+.areas-of-use-title {
+  margin: 0px;
+}
+.water-wreeding-title {
+  margin: 0px;
+}
+.recommendations-for-use-title {
+  margin: 0px;
+}
+.warning-title {
+  margin: 0px;
+}
+.water-wreeding {
+  width: 240px;
+}
